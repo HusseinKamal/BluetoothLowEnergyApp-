@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BluetoothLowEnergy</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="home_title">BLE Devices</string>
+    <string name="receiver_content">Receiver Device</string>
+
+    <string name="search">Search</string>
+    <string name="connect">Connect</string>
+    <string name="send_data">Send Data</string>
+    <string name="no_devices">No devices Founded!</string>
+    <string name="enable_bluetooth">Please turn on Bluetooth</string>
+    <string name="no_bluetooth">This device not contains Bluetooth</string>
+    <string name="could_not_connect">Could\'t Connect to this device ,please try again</string>
+    <string name="select_device">Please select a device</string>
+    <string name="connected_with">You are connecting with</string>
+    <string name="connecting">Connecting...</string>
+</resources>
